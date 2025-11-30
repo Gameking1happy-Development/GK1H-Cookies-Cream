@@ -254,6 +254,17 @@
           "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/21.1.2.0/"
         }
       }
+    },
+    {
+      "id": "21.1.2.1",
+      "releasedAt": 1764541554000,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/21.1.2.1/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/21.1.2.1/"
+        }
+      }
     }
   ]
 }

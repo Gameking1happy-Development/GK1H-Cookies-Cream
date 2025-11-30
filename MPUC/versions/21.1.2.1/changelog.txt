@@ -1,5 +1,9 @@
 # GK1HC&C 21.1.2.1 - Accessorify+
+
 ## Mod Additions
+
 GK1H Accessorify+
+
 ## Mod Updates
+
 Configured (2.6.2 to 2.6.3)
