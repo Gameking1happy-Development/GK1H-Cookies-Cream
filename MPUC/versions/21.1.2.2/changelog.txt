@@ -1,6 +1,11 @@
 # GK1HC&C 21.1.2.2 - New Server
+
 ## Mod Updates
+
 GK1H Accessorify+ (21.1.1.0 to 21.1.1.0-hotfix)
+
 ## Changes
-Replaced server.<br>
+
+Replaced server.
+
 Updated NeoForge from 21.1.216.
