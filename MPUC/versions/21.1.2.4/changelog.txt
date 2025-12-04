@@ -1,4 +1,7 @@
 # GK1HC&C 21.1.2.4 - Small Patch
+
 ## Changes
-Stopped using mc-publish.<br>
+
+Stopped using mc-publish.
+
 Replace server IP with new subdomain.
