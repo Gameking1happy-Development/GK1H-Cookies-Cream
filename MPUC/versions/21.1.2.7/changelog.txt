@@ -1,7 +1,13 @@
 # GK1HC&C 21.1.2.7 - Updates
+
 ## Mod Updates
-Boat Better / Better Boat Movement (2.5.1 to 2.5.3)<br>
-e4mc (5.4.1 to 5.4.2)<br>
-Entity Culling (1.9.3 to 1.9.4)<br>
-ImmediatelyFast (1.6.7 to 1.6.8)<br>
+
+Boat Better / Better Boat Movement (2.5.1 to 2.5.3)
+
+e4mc (5.4.1 to 5.4.2)
+
+Entity Culling (1.9.3 to 1.9.4)
+
+ImmediatelyFast (1.6.7 to 1.6.8)
+
 Tooltip Scroll (1.4.0 to 1.5.1)
