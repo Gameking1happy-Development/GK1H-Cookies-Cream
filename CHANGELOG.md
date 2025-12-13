@@ -12,3 +12,6 @@ GK1H Traveler's Backpack+ (21.1.1.0 to 21.1.1.1)<br>
 Inventory Profiles Next (2.2.1 to 2.2.2)<br>
 libIPN (6.6.1 to 6.6.2)<br>
 Not Enough Animations (1.11.0 to 1.11.1)
+# GK1HC&C 21.1.2.9-hotfix - Hotfix
+## Mod Downgrades
+e4mc (5.5.0 to 5.4.2)
