@@ -355,35 +355,13 @@
       }
     },
     {
-      "id": "21.1.3.0-alpha1",
-      "releasedAt": 1765506724000,
-      "updateType": "incompatible",
+      "id": "21.1.3.0",
+      "releasedAt": 987654321098765,
+      "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/21.1.3.0-alpha1/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/21.1.3.0-alpha1/"
-        }
-      }
-    },
-    {
-      "id": "21.1.3.0-alpha2",
-      "releasedAt": 1765572300000,
-      "updateType": "minor",
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/21.1.3.0-alpha2/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/21.1.3.0-alpha2/"
-        }
-      }
-    },
-    {
-      "id": "21.1.3.0-alpha3",
-      "releasedAt": 1765655383000,
-      "updateType": "minor_breaking",
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/21.1.3.0-alpha3/",
-          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/21.1.3.0-alpha3/"
+          "modrinth": "https://modrinth.com/modpack/gk1h-cookies-cream/version/21.1.3.0/",
+          "generic": "https://github.com/Gameking1happy-Development/GK1H-Cookies-Cream/releases/tag/21.1.3.0/"
         }
       }
     }
