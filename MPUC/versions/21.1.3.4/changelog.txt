@@ -1,9 +1,17 @@
 # GK1HC&C 21.1.3.4 - Banner Mods
+
 ## Mod Additions
-Bedspreads<br>
-Banner Flags<br>
+
+Bedspreads
+
+Banner Flags
+
 BannerRetrieval
+
 ## Mod Updates
-Jade 🔍 (15.10.3 to 15.10.4)<br>
-Traveler's Backpack (10.1.30 to 10.1.31)<br>
+
+Jade 🔍 (15.10.3 to 15.10.4)
+
+Traveler's Backpack (10.1.30 to 10.1.31)
+
 YetAnotherConfigLib (YACL) (3.8.1 to 3.8.2)
